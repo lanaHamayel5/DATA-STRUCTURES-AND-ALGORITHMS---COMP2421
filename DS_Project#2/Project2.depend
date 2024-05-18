@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702415279 source:c:\users\lanaa\onedrive\desktop\ds_course\new folder\project2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

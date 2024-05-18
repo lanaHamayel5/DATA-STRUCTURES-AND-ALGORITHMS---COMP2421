@@ -1,0 +1,11 @@
+happy:joyful#content#pleased
+explore:discover#investigate
+vibrant:lively#colorful#dynamic
+resilient:strong
+serene:calm#peaceful#tranquil
+excited:enthusiastic#thrilled#ecstatic
+confused:baffled#bewildered#perplexed
+curious:inquisitive#eager#intrigued
+playful:cheerful#amusing#lively
+grateful:thankful#appreciative
+calm:peaceful#serene#tranquil
